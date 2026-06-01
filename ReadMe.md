@@ -28,24 +28,14 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-🌊 **Rajahmundry boy** building things from the banks of the Godavari
+🌊 Student from **Rajahmundry**, AP
+🤖 Building **bots**, websites & mobile apps
+✨ Certified **vibecoder** — I feel the code
+💬 Ask me anything about **Python & Node.js**
 
-🎓 Currently a **student** — turning caffeine into code, one commit at a time
-
-🤖 I love crafting **bots** that automate the boring stuff
-
-🌐 I build **websites** that actually look good and work fast
-
-📱 Dabbling in **mobile apps** — because the web isn't enough
-
-✨ Certified **vibecoder** — I don't just write code, I *feel* it
-
-🌱 Always exploring new tech, breaking things, and learning from it
-
-💬 Ask me about **Python, Node.js, bots, or anything full-stack!**
-
+<br/><br/><br/>
 <br clear="right"/>
 
 ---
@@ -119,10 +109,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Built%20with-❤️%20%26%20lots%20of%20☕-6C63FF?style=for-the-badge" />
-</p>
+### 🤝 Thanks for stopping by — let's build something awesome together!
+
+<img src="https://img.shields.io/badge/Open%20to-Collaborations-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/DM%20me-Anytime%20🚀-302b63?style=for-the-badge&logo=telegram&logoColor=white" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6C63FF&height=140&section=footer&text=Keep+Vibecodin'&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 </div>
