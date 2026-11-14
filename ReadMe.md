@@ -90,7 +90,7 @@ const hari = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/6C63FF/1hari11111111" width="100%" alt="contribution graph" />
+  <img src="assets/contributions.svg" width="100%" alt="contribution graph" />
 </div>
 
 <!--
