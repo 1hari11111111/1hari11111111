@@ -75,7 +75,7 @@ const hari = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1hari11111111&theme=tokyonight" width="100%" alt="profile details" />
+<img src="assets/profile-card.svg" width="100%" alt="profile card" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1hari11111111&theme=tokyonight" width="49%" alt="repos per language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1hari11111111&theme=tokyonight" width="49%" alt="most commit language" />
