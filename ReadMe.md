@@ -2,24 +2,19 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=HARI%20VARDHAN&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20Node.js%20%7C%20Builder&descAlignY=55&descAlign=50"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <a href="https://komarev.com/ghpvc/?username=1hari11111111">
   <img src="https://komarev.com/ghpvc/?username=1hari11111111&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 </a>
 <img src="https://img.shields.io/github/followers/1hari11111111?style=for-the-badge&color=6C63FF&labelColor=0d0d0d" />
-<img src="https://img.shields.io/github/stars/1hari11111111?style=for-the-badge&color=6C63FF&labelColor=0d0d0d" />
 
-</div>
+<br/><br/>
 
-<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Hari+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Python+%26+Node.js+Enthusiast+%F0%9F%90%8D;Building+Bots%2C+Websites+%26+Apps+%F0%9F%A4%96;Proud+Vibecoder+from+Rajahmundry+%F0%9F%8C%8A" alt="Typing SVG" />
+</a>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Hari+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Python+%26+Node.js+Enthusiast+%F0%9F%90%8D;Building+Bots%2C+Websites+%26+Apps+%F0%9F%A4%96;Proud+Vibecoder+from+Rajahmundry+%F0%9F%8C%8A" alt="Typing SVG" />
-  </a>
 </div>
 
 <br/>
@@ -35,7 +30,6 @@
 ✨ Certified **vibecoder** — I feel the code
 💬 Ask me anything about **Python & Node.js**
 
-<br/><br/><br/>
 <br clear="right"/>
 
 ---
@@ -65,7 +59,7 @@
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### ☁️ Deployment & Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -81,19 +75,15 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1hari11111111&theme=tokyonight" width="100%" />
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://streak-stats.vercel.app/?user=1hari11111111&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=1hari11111111&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=1hari11111111&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1hari11111111&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1hari11111111&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" width="50%" />
 
 </div>
 
@@ -102,14 +92,12 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1hari11111111&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true&custom_title=Hari%27s%20Contribution%20Activity" width="100%" />
+  <img src="https://ghchart.rshah.org/6C63FF/1hari11111111" alt="Hari's contribution graph" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-
----
 
 ### 🤝 Thanks for stopping by — let's build something awesome together!
 
@@ -118,6 +106,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6C63FF&height=140&section=footer&text=Keep+Vibecodin'&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6C63FF&height=140&section=footer&text=Keep%20Vibecodin%27&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 </div>
